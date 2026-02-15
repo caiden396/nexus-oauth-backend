@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 3000;
 // ═══ CONFIGURATION ═══
 const CLIENT_ID = "1462605560884101130";  // Your bot ID
 const CLIENT_SECRET = process.env.DISCORD_CLIENT_SECRET;  // Set in Render env vars
-const REDIRECT_URI = "https://nexus-site-hv2f.onrender.com/auth/callback";
+const REDIRECT_URI = "https://nexus-backend-of9x.onrender.com/auth/callback";
 const FRONTEND_URL = "https://nexus-site-hv2f.onrender.com";
 
 // ═══ MIDDLEWARE ═══
